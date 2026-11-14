@@ -7,7 +7,8 @@ MCAI development source and private development history are not published here.
 
 ## Downloads and setup
 
-Check [Releases](https://github.com/yqlay/MCAI/releases) for available builds.
+Download [MCAI 0.4.0-alpha.1](https://github.com/yqlay/MCAI/releases/tag/v0.4.0-alpha.1).
+Checksums and license notices accompany the installation packages.
 Use the file for your exact Minecraft version and loader. The current release
 family is **0.4.0-alpha.1**, for **Windows x64**.
 
